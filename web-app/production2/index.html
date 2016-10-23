@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>SVG Doughnut chart with animation and tooltip</title>
+    
+    
+    <link rel="stylesheet" href="css/normalize.css">
+
+    
+        <link rel="stylesheet" href="css/style.css">
+
+    
+    
+    
+    
+  </head>
+
+  <body>
+
+    <div id="doughnutChart" class="chart"></div>
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+
+        <script src="js/index.js"></script>
+      <script>
+        var data_url = 'http://athome-backend1294.cloudapp.net/getrisk' + document.URL.substring(document.URL.lastIndexOf('?'));
+        
+        $( document ).ready(function() {
+            $.ajax({
+              url: data_url,
+              data: {},
+              success: function(response){
+                  alert("Your risk score is: "+ response + "%");
+                $("p.doughnutSummaryTitle").text = "Risk score";
+                  
+                  $("p.doughnutSummaryNumber").text = response;
+              }
+              
+            });    
+        });
+        
+          
+      </script>
+    
+    
+  </body>
+</html>
