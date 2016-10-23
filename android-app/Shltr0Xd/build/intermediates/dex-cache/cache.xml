@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_dc9500561a5e1d88919e2595092fc5fbffa36a3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_786443f3b77df5721feb853159aae1495a172cd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07af1a457ea00460d40c4a4dfff0f50e05003053">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_646e3e161f9d3e841a609c823d2d2f4e72509e47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_f17be55afb1b7de55c29c6e952f441c8b0b423a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="862679f96151949a102d37b018d962961019dc65">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.droidsonroids.gif-android-gif-drawable-1.2.2_559fd8d16012abf192090039b518bdfc26e3c8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4762aa38475d849393083446341f053e98e1f8a6">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16737260e1acb04f7361c44930d3494595cbcd44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="640af651fe94032b8f34112aabd351df29d3e2df">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.estimote-sdk-0.10.8_3378c1ce256fbbb50c14513502e3aa46f99057b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_f34b69570737d95b89ede99df03aad3b5d1b0a9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_f531e49b4809a51c65fa8ab47aef96b91f01d520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_17bbb4df7192e063c37f1fe93c3a922171394d6a/classes.dex" />
+    </item>
+
+</items>

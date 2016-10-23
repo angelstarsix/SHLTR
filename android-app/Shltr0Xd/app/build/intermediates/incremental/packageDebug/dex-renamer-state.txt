@@ -1,0 +1,7 @@
+#Sun Oct 23 05:22:44 PDT 2016
+base.0=/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_646e3e161f9d3e841a609c823d2d2f4e72509e47
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16737260e1acb04f7361c44930d3494595cbcd44/classes.dex
+base.1=/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16737260e1acb04f7361c44930d3494595cbcd44
+file.0=/Users/luisdbosquez/Documents/Projects/Shltr0Xd/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_646e3e161f9d3e841a609c823d2d2f4e72509e47/classes.dex

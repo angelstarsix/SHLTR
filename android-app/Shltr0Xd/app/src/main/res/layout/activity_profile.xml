@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="18dp">
+    <TextView
+        android:id="@+id/name"
+        android:paddingTop="3dp"
+        android:layout_margin="4dp"
+        android:textSize="32dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/location"
+        android:paddingBottom="6dp"
+        android:layout_margin="4dp"
+        android:textSize="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/story"
+        android:layout_margin="4dp"
+        android:textSize="18dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@style/CustomProgressBarHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_margin="24dp"
+        android:paddingTop="20dp"
+        android:max="100"
+        android:minHeight="50dp"
+        android:minWidth="200dp"
+        android:progress="80"
+        android:progressDrawable="@drawable/greenprogress"/>
+    <TextView
+        android:id="@+id/goal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/progressBar1"
+        android:layout_below="@+id/progressBar1"/>
+    <Button
+        android:text="Support this cause"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="donate" />
+</LinearLayout>
